@@ -11,7 +11,7 @@ body{
 	max-width: 100%;
 	min-width: 300px;
 	height: auto;
-    font-size: 18px;
+    font-size: 22px;
     color: #0E0D0D;
     background-image: url("images/back.jpg");
     background-repeat: repeat;
@@ -30,11 +30,11 @@ span{
 .container{
 	margin: 0 20px;
 	padding: 5px 0;
-    max-width: 90%;
+    max-width: 99%;
 	min-width: 300px;
     background: transparent;
     align-items:stretch;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .header_menu{
@@ -181,11 +181,10 @@ p{
 .assort_banner{
 	width: 50%;
 	min-width: 25%;
-	display:flex;
-	align-self:justify;
-    float: left;
-	margin: 15px 5px;
+	display:block;
+	margin: 15px auto;
 }
+
 
 .lesson_banner{
 	width: 150px;
@@ -265,7 +264,7 @@ p{
 }
 
 .video{
-	min-width:50%;
+	min-width:300px;
 	max-width: 100%;
 	display:flex;
 }
