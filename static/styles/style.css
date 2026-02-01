@@ -259,6 +259,7 @@ p{
 }
 
 .video{
+	display:flex;
 	min-width:200px;
 	max-width: 45%;
 }
