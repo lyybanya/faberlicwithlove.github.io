@@ -28,10 +28,6 @@ aside, nav, footer, header, section, main {
 }
 
 
-ul, ul li {
-	list-style: none;
-}
-
 img {
 	vertical-align: top;
 }
