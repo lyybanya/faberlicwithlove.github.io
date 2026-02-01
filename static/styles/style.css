@@ -174,7 +174,7 @@ p{
 }
 
 .assort_banner{
-	width: 50%;
+	width: 75%;
 	min-width: 25%;
 	display:block;
 	margin: 15px auto;
@@ -253,7 +253,7 @@ p{
 
 .v_block{
 	display: flex;
-	margin: 50px 10px;
+	margin: 20px 10px;
 	justify-content: space-between;
 	align-self: stretch;
 }
@@ -261,5 +261,5 @@ p{
 .video{
 	min-width:200px;
 	max-width: 80%;
-	display:flex;
+	display:block;
 }
